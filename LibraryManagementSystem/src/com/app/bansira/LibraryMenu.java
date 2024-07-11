@@ -32,7 +32,7 @@ public class LibraryMenu {
                     String genre = scanner.nextLine();
                     System.out.println("Enter publication year:");
                     int publicationYear = scanner.nextInt();
-                    scanner.nextLine(); // Consume newline
+                    scanner.nextLine();
                     System.out.println("Enter department:");
                     String department = scanner.nextLine();
                     System.out.println("Enter availability (true/false):");
