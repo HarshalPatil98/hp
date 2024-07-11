@@ -11,7 +11,7 @@ data type --> type of data that we can store in variable
 		2) referenced data types (Array, String, Class etc..)
 
 
-			int   a = 10;
+			int   a = 10;knesrrfo 	j2rfo 928huk o;
 
 			int   b = 20 ;
 
