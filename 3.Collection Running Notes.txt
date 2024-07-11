@@ -15,7 +15,7 @@ data type --> type of data that we can store in variable
 
 			int   b = 20 ;
 
-			int   c = 30 ;
+			int   c = 30 ;kjndfkjvnd mkdgkd rugjoei
 
 I want to store 1000 values ? ---- 1000 variables we need
 
